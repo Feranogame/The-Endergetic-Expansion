@@ -77,4 +77,18 @@
 	"entity.endergetic.boof_block": "Bloco puf",
 	"entity.endergetic.bolloom_knot": "Pedúnculo de baflor",
 	"entity.endergetic.bolloom_balloon": "Balão de baflor"
+	"entity.endergetic.puff_bug": "Pufadeiro",
+	"entity.endergetic.booflo_baby": "Buflu bebê",
+	
+	"_comment": "Biomas",
+	
+	"biome.endergetic.poise_forest": "Floresta paira",
+	"biome.endergetic.chorus_plains": "Planícies de coro(inutilizado)",
+	
+	"_comment": "Atalhos",
+	
+	"key.endergetic.boof_vest" : "Ativar veste de buflu",
+	
+	"_comment": "Comentários",
+	"tooltip.endergetic.activePotions": "Efeitos de poção ativos:"
 }
